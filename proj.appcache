@@ -1,12 +1,11 @@
 CACHE MANIFEST
 # 2015-02-01
-
 CACHE:
 index.html
 common/css/print.css
 common/css/style.css
 common/js/perfmatters.js
-http://www.google-analytics.com/analytics.js
+'http://www.google-analytics.com/analytics.js'
 
 projects/images/profilepic.jpg
 projects/images/page-mock.jpg
