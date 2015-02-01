@@ -1,0 +1,23 @@
+CACHE MANIFEST
+# 2015-02-01
+
+CACHE:
+index.html
+common/css/print.css
+common/css/style.css
+common/js/perfmatters.js
+http://www.google-analytics.com/analytics.js
+
+projects/images/profilepic.jpg
+projects/images/page-mock.jpg
+projects/images/fry.jpg
+projects/images/game.jpg
+projects/images/pizzeria.jpg
+projects/images/pizza.jpg
+
+# no call back
+FALLBACK
+
+# Require the users to be online
+NETWORK
+projects/pizza.html
