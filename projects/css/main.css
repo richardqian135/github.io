@@ -1,0 +1,91 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*body style*/
+body {
+ 	font-family: "Lucida Grande", sans-serif;
+}
+
+/* title and subtitle display */
+h1 {
+ 	color: #666;
+ 	padding-top: 25px;
+ 	margin-left: 250px;
+ 	word-spacing: -6.5px;
+ 	letter-spacing: 0px;
+}
+
+h2 {
+ 	color: #f07C17;
+ 	font-size: 1.50em;
+ 	word-spacing: 12px;
+ 
+}
+
+#title-small {
+ 	font-size: 50px;
+}
+
+#good-way {
+ 	margin-top: 20px;
+}
+
+#subtitle-small {
+ 	font-size: 10px;
+}
+
+/* list style */
+ul {
+ 	padding: 20px 30px;
+}
+
+li {
+ 	color: #ccc;
+}
+
+#last-li {
+ 	padding-bottom: 40px;
+}
+
+/* paragraph style */
+p {
+ 	font-size: 16px;
+ 	color: #666;
+ 	padding-top: 16px;
+ 	margin-bottom:2px;
+ 	line-height: 2;
+ 	width: 540px;
+}
+
+#first-p {
+ 	margin-top: 0px;
+}
+
+#second-p {
+ 	padding-bottom: 15px;
+}
+
+#third-p {
+   	margin: -9px -9px;
+}
+
+
+/* image style */
+.image-size {
+	width:400px;
+	height:380px;
+    margin-top: 15px;
+}
+
+/* feature box style */
+.features {
+	width:378px;
+	height:226px;
+	margin-top:26px;
+    border: 1px solid #ccc;
+    padding: 4px 30.5px 10px;
+}
+
+
+
+
